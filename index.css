@@ -1,0 +1,50 @@
+body {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: darkblue;
+    margin: 20px;
+}
+
+.container {
+    max-width: 300px;
+    border: 1px solid black;
+    height: 350px;
+    background-color: lightblue;
+    border-radius: 2%;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: white;
+    font-size: 24px;
+    color: darkblue;
+    border: 3px solid darkblue;
+}
+
+#save-btn {
+    background: darkblue;
+}
+
